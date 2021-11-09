@@ -209,7 +209,7 @@ img {
      padding-top: 10px;
      width: 200px;
      boder: 1px solid #730bec;
-     background: #730bec url(img/star.png);
+     background: #730bec url(star.png);
      box-shadow: -3px -3px 5px rgba(0, 0, 0, 0.3);
    }
      .button {

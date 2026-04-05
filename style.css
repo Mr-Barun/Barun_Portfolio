@@ -433,7 +433,7 @@ img {
       justify-items: center; 
     }
    .home-title {
-    color: var(--first-color); }
+    color: black; }
   }
    @media screen and (min-width: 1024px){
 .bd-grid{

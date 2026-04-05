@@ -367,7 +367,7 @@ img {
        position: relative;
        font-size: var(--h2-font-size);
        color: var(--first-color);
-       margin-top: var(--mb-2);
+       margin-top: var(--mb-1);
        margin-bottom: var(--mb-4);
        text-align: center;
       }

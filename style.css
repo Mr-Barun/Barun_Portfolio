@@ -433,7 +433,7 @@ img {
       justify-items: center; 
     }
    .home-title {
-    color: #fff; }
+    color: var(--first-color); }
   }
    @media screen and (min-width: 1024px){
 .bd-grid{
